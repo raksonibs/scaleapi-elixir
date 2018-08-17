@@ -1,6 +1,6 @@
 # Scale
 
-**TODO: Add description**
+A basic wrapper around the Scale Api for polygon separation.
 
 ## Installation
 
